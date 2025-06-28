@@ -36,5 +36,5 @@ O curso aborda os conceitos fundamentais da programação e da construção de a
 ---
 
 <p align="center">
-  Este README foi criado com base no Programa de Ensino Resumido da disciplina.
+  Este README foi criado com base no Programa de Ensino da disciplina.
 </p>
